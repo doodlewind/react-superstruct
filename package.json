@@ -1,0 +1,12 @@
+{
+  "name": "react-supersturct",
+  "version": "0.0.1",
+  "description": "Superstruct HOC for react.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Test TODO\""
+  },
+  "keywords": ["superstruct", "react", "component", "validation", "schema"],
+  "author": "doodlewind",
+  "license": "MIT"
+}
